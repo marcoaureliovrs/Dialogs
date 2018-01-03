@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="label_alert_dialog">ALERT DIALOG</string>
+    <string name="label_dialog_items">DIALOG ITEMS</string>
+</resources>
